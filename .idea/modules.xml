@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Android_Projects-Encryption_project.iml" filepath="$PROJECT_DIR$/.idea/modules/Android_Projects-Encryption_project.iml" group="Encryption_project" />
+      <module fileurl="file://$PROJECT_DIR$/Encryption_project.iml" filepath="$PROJECT_DIR$/Encryption_project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Encryption_project-app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Encryption_project-app.iml" group="Encryption_project/app" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>
